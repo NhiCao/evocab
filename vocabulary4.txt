@@ -1,0 +1,633 @@
+\vdisguise
+\mcải trang, ngụy trang, che dấu, che đậy
+- He disguised himself by wearing a beard.
+- The journalist disguised himself as a waiter in order to get into the celebrity party.
+- I couldn't disguise my disappointment.
+- She has had a lot of cosmetic surgery in an attempt to disguise her age.
+\vdiligence
+\mthe quality of working carefully and with a lot of effort, careful and persistent work or effort
+- She hoped that her diligence would be noticed at work.
+- These duties must be carried out with reasonable care and diligence.
+\vdiscriminate
+\mphân biệt (đồng nghĩa với distinguish, differentiate)
+- Police dogs can discriminate between the different smells.
+- Babies can discriminate between different facial expressions.
+\vtranslucent
+\m(adj) trong mờ
+- translucent glass 
+\vretainer
+\mcái niềng răng, dụng cụ cố định răng
+- I got some peanuts in my retainer.
+\vfanatic
+\mngười cuồng tín / một nghĩa khác là diễn tả một ai đó quá yêu thích cái gì đó
+- I am not a religious fanatic but I am a Christian.
+- Both Rod and Phil are football fanatics.
+- I’m a coconut fanatic. 
+\vright up one’s alley
+\mideally suited to one's interests. If something is right up your alley, it suits you perfectly.
+- Anna loves watching movies, so I'm sure she'll go to the film festival with you—that's right up her alley.
+- I’m a coconut fanatic so this dish is kind of right up my alley.
+\vdrastic
+\mextreme in effect or action. Severe or having very noticeable effects
+- Many employees have had to take drastic cuts in pay.
+- I almost made a drastic mistake by using chopsticks for this dish. It is designed to be eaten by spoon.
+\vempirical
+\mtheo kinh nghiệm. based on what is experienced or seen rather than on theory
+- The tuning process in deep learning is more empirical than theoretical.
+- If knowledge is empirical, it's based on observation rather than theory. To do an empirical study of donut shops, you'll need to visit every one you can find.
+\vrecap
+\mto repeat the main points of an explanation or description
+- Finally, the teacher recapped the main points of the lesson.
+- To recap, our main aim is to increase sales by 12% this year.
+- My son recapped the episode to his mother who doesn't watch the show.
+\vevacuate
+\msơ tán, tản cư. to move people from a dangerous place to somewhere safe
+- The police evacuated the village shortly before the explosion.
+- Last month, Western Japan residents were warned to evacuate because of heavy rain.
+\vinterjection
+\mthán từ (Ouch! Wow! Great! Help! Oh! Hey! Hi!)
+\vIt is not my cup of tea
+\mif something is not your cup of tea, you do not like it or you are not interested in it.
+- We couldn’t decide which movie to watch, so we ended up settling on a comedy. Half-way through the movie, I concluded that its humor was not my cup of tea.
+\vmoral
+\m(adj) thuộc đạo đức, phẩm hạnh. relating to the standards of good or bad behaviour, fairness, honesty, etc. that each person believes in, rather than to laws
+- The book places a high moral value on marriage and the family unit.
+- If we accept that certain babies should be allowed to die, we place doctors in a moral dilemma.
+\vimmoral
+\m(adj) trái đạo đức
+- Discrimination on the basis of race is immoral.
+\vdisgraceful
+\m(adj) ô nhục, nhục nhã, hổ thẹn. If you say that something such as behaviour or a situation is disgraceful, you disapprove of it strongly, and feel that the person or people responsible should be ashamed of it.
+- Having sex with many men is disgraceful as a Japanese woman.
+- The most disgraceful thing is that the airline has refused to pay money to the families of the crash victims.
+\vindecent
+\m(adj) không đứng đắn, không đoan trang, không hợp khuôn phép. not in keeping with accepted standards of what is right or proper in polite society
+- He was found guilty of possessing indecent photographs.
+- You can’t go out in that dress – it’s positively indecent!
+\vmould / mold
+\m(n) ngoài nghĩa là mốc meo thì còn có nghĩa là cái khuôn
+\vstop by / drop by (somewhere)
+\mGhé qua, ghé vào (2 từ này có thể dùng thay thế nhau)
+- He dropped by the woman’s house to ask for money.
+\vfacet
+\mmặt, khía cạnh (của vấn đề)
+- He has travelled extensively in China, recording every facet of life.
+- You've only seen one facet of her personality.
+\vbooth
+\mquán, rạp, lều. a small temporary tent or structure at a market, fair, or exhibition, used for selling goods, providing information, or staging shows.
+- phone booth
+\vmakeover
+\m(n) the process of changing the way something looks or works in order to make it better or more attractive. If a person or room is given a makeover, their appearance is improved, usually by an expert. If an organization or system is given a makeover, important changes are made in order to improve it.
+- He picks a guest from the audience and gives them a makeover, right on TV.
+- It’s time we gave the kitchen a makeover.
+\vclump
+\m(n) cục, hòn
+\m(v) vón cục, đóng cục, kết thành khối
+- There were big clumps of soil on his boots.
+- As it started to rain, everyone clumped together in doorways.
+- Brown rice takes longer to cook but it doesn't clump together as easily as white rice.
+\vjewel
+\m(n) đá quý
+- An example of a jewel is a diamond.
+- Thieves stole gold and jewels worth millions of pounds.
+\vcome over
+\m(v) to visit someone's home
+- Ron came over for dinner the other night.
+- June and her sister will come over for lunch on Sunday.
+\vthe other day (also the other night/week)
+\mrecently. If you say that something happened the other day, you mean that it happened a few days ago.
+- We had lunch the other day at our favorite restaurant.
+\vhectic
+\m(adj) full of activity; very busy and fast
+- a hectic schedule
+- I’m not sure if I should take the job because my schedule is already so hectic.
+- The area has become a haven for people tired of the hectic pace of city life.
+\vscalp
+\mda đầu
+- Some tribes used to collect scalps to prove how many of the enemy they had killed in battle.
+- Massage the shampoo into the scalp.
+\vlight-headed
+\m(adj) chóng mặt
+- She'd had a couple of glasses of champagne and was starting to feel light-headed.
+- If I skip breakfast, I may feel light-headed.
+\vassemble
+\m(v) tập hợp, tụ tập / lắp ráp
+- We assembled in the meeting room after lunch.
+- At the staff meeting, the manager told the assembled company (= everyone there) that no one would lose their job.
+- This table is very easy to assemble.
+- This is where the car engines are assembled.
+\vmount
+\m(v) đóng vào, cắm vào. to fix something to a wall, in a frame, etc., so that it can be looked at or used
+- The children's work has been mounted on coloured paper and put up on the walls of the classroom.
+- The surveillance camera is mounted above the main door.
+\vslant
+\mxiên, nghiêng. slope or lean in a particular direction; diverge or cause to diverge from the vertical or horizontal.
+- Italic writing slants to the right.
+- The evening sun slanted (= shone with the light moving in a slope) through the narrow window.
+- I took 3 attempts to put the TV up. First time, it was too high. Second time, it was too slanted. The third time, I succeeded as you can see.
+\vcord
+\mdây (dây thừng, dây điện)
+- Where's the cord that ties back the curtains?
+- Tie it with a nylon cord.
+- an extension cord
+\vneglect
+\m(v) bỏ bê, sao lãng. to give not enough care or attention to people or things that are your responsibility
+- He neglects that poor dog - he never takes him for walks or gives him any attention.
+- She's been neglecting her studies this semester.
+- I realized that I’ve been neglecting my health.
+\vdowntime
+\mtime when you relax and do not do very much
+- I had a busy weekend so I'm planning to have some downtime tomorrow.
+- The biggest thing I'm looking forward to is being home and enjoying some downtime.
+\vpuffy
+\m(adj) phù, húp
+- Her cheeks were puffy with crying.
+- His eyes were still puffy with sleep.
+\vpendant
+\m(n) tua tòn ten (của dây chuyền, bông tai,…)	       
+\vanklet
+\mvòng đeo ở mắt cá chân
+\vdainty
+\mthanh nhã. delicately small and pretty
+- I love how anklets make your ankles look so pretty and dainty.
+- Carefully she pulled the dress over her undergarments, and lightly slid her feet into the dainty shoes that her mother had once bought her.
+- We were given tea, and some dainty little cakes.
+\vinduct
+\mIf someone is inducted into a particular job, rank, or position, they are given the job, rank, or position in a formal ceremony. Induct is what groups do when they formally accept new members.
+- Six new members have been inducted into the Provincial Cabinet.
+- He was recently inducted into The American Academy of Arts and Letters.
+\vsceptical / skeptical
+\m(adj) hoài nghi, ngờ vực
+- I have always been sceptical about the benefits of talking to plants.
+- I didn’t buy the bag because I was skeptical if it is authentic or not.
+\vvibe
+\ma general feeling that you get from a person or place
+- I didn’t get many good vibes from the club.
+- I just fell in love with the city. I love the energy and the vibe that I got there.
+\vspotless
+\msạch tinh tươm, không tì vết
+- My friend is going to visit me this weekend so I need my house splotless.
+- She was young and pretty, with a spotless reputation.
+\vslump
+\m(v) xuống giá. (of prices, values, or sales) to fall suddenly.
+\m(n) suy thoái, khủng hoảng kinh tế. a fall in the price, value, sales, etc. of something. a period when an industry or the economy is in a bad state and there is a lot of unemployment
+- Car sales have slumped dramatically over the past year.
+- There's been a slump in the demand for new cars.
+- an economic slump
+- The airline industry is currently in a slump.
+- ...the slump of the early 1980s.
+\vwhey
+\mnước sữa. the liquid part of milk that is separated from the solid curds during the process of making cheese
+- Curds and whey are of course bi-products of the cheese making process.
+- When I spun him round his face was like whey, and I could see he'd been crying. 
+\vdairy
+\mA dairy is a shop or company that sells milk and food made from milk, such as butter, cream, and cheese. foods that are made from milk, such as cream, butter, and cheese
+- I was advised not to eat too much dairy.
+- I'm trying to cut down on dairy products, which is difficult because I adore cheese.
+- Over time, the hotel was expanded and a dairy and bakery were added.
+\vscrawny
+\mgầy gò, khẳng khiu. unpleasantly thin, often with bones showing
+- He came home after three months at college looking terribly scrawny.
+- They are scrawny and look unhealthy.
+- Staying thin when you're older makes your face look scrawny.
+\vgive a crap
+\mcare, mind
+- I don’t give a crap what she thinks!
+- Who gives a crap? (= Who cares?)
+\vice rink
+\mAn ice rink is a level area of ice, usually inside a building, that has been made artificially and kept frozen so that people can skate on it.	 
+\viceberg
+\mnúi băng trôi. a very large mass of ice that floats in the sea
+- The photo you see below is quite possibly the actual iceberg that struck the Titanic.
+\vcomply
+\mtuân theo. to act according to an order, set of rules or request
+- Variable names must be unique and comply with the naming conventions (initial small case letter optionally followed by letters, digits, and underscore).
+- If you don’t comply you could face a penalty of £100.
+- We act responsibly and comply with employment and tax laws and regulations at all times.
+\vflaky
+\mdễ bong ra từng mảnh. coming off easily in small, flat, thin pieces
+- dry, flaky skin
+- I recommend this shampoo to anyone especially someone like me who just struggles with really dry, itchy and flaky scalp.
+\vcruelty-free
+\mIn the animal rights movement, cruelty-free is a label for products or activities that do not harm or kill animals anywhere in the world. Products tested on animals are not considered cruelty-free, since these tests are often painful and cause the suffering and death of millions of animals every year.
+- Can you recommend some cosmetic products that are cruelty-free please?
+\vtube top
+\mA tube top is a piece of women's clothing that is made of stretchy material and covers her chest but leaves her shoulders bare.	    
+\vshoe rack
+\mkệ để giày	 
+\vshoe storage cabinet
+\mtủ đựng giày
+\vtandem bicycle
+\mThe tandem bicycle or twin is a form of bicycle (occasionally a tricycle) designed to be ridden by more than one person. The term tandem refers to the seating arrangement (fore to aft, not side by side), not the number of riders.	 
+\vblunt
+\m(v)/(adj) saying what you think without trying to be polite or considering other people's feelings
+- I'll be blunt - that last piece of work you did was terrible.
+- Julian’s blunt words hurt her.
+- He didn't know how to start - should he be blunt and just come straight out and tell her or start from the beginning, back when he was 12 years old.
+- During short conversation with the reporter, he was somewhat blunt but at least he was quite gentle in tone.
+\vbidder
+\m(n) người trả giá. someone who offers to pay a particular amount of money for something
+- In an auction, goods or property are sold to the highest bidder (= the person who offers the most money).
+- This model was sold by a museum to an unnamed telephone bidder.
+\vcrap
+\msomething which is worthless, useless, nonsense or of bad quality
+- I can't believe she's trying to pass off this crap as art!
+- I've only read one novel by him and it was a load of crap.
+- I’m going to clean out my closet because there’s so much crap in there.
+- What is all this crap doing on my desk?
+\vcourse of action
+\mplan or method to be used for achieving a specific goal.
+- Somehow, Harry would have to persuade the headmaster that such a course of action would not be wise.
+- The optimal course of action was to shut down the old plant and rebuild a new one in the region.
+- I asked him what his course of action would be, because I knew that we needed some quick and effective management.
+\vborderline
+\m(n) đường biên giới, giới tuyến
+\m(adj) giáp ranh, sát nút. between two very different conditions, with the possibility of belonging to either one of them
+- a borderline state between waking and sleeping
+- He is not an alcoholic, but a borderline case.
+- She was a borderline candidate for the job.
+- In borderline cases like these, the best course of action is difficult to determine.
+\vrun errands / run an errand
+\mIf you run an errand for someone, you do or get something for them, usually by making a short trip somewhere.
+- chị Bủm chạy đi mua đồ cho mợ Hai cả chục bận mỗi ngày là ví dụ của run errands.
+- She was forever running errands for her housebound grandmother.
+- Can you see if your father can come pick you up? I've been running errands all day, and I don't want to trek across town yet again.
+\vadulting
+\m(n) việc làm người lớn. Adulting is an informal term to describe behavior that is seen as responsible and grown-up. This behavior often involves meeting the mundane demands of independent and professional living, such as paying bills and running errands.
+- Why is adulting so hard?
+- Adulting includes things like keeping your home clean and paying bills.
+- It feels really good to take a step back from adulting and have someone else cook dinner for me.
+\vfrugal
+\m(adj) tiết kiệm. careful when using money or food, or (of a meal) cheap or small in amount
+- a frugal lifestyle
+- a frugal meal of bread and soup
+- As children we were taught to be frugal and hard-working.
+- When I first moved to Tokyo, everything was expensive so I tried to be frugal as much as possible.
+\vsparing
+\m(adj) dè xẻn, tiết kiệm. using very little of something
+- Be sparing with the butter as we don't have much left.
+- He is sparing with/in his praise (= praises people very little).
+- Only a sparing amount is needed.
+- a sparing father and a spending son
+- sparing in their use of heat and light
+\veconomical
+\m(adj) kinh tế, tiết kiệm. Something that is economical does not require a lot of money to operate. For example a car that only uses a small amount of petrol is economical. Someone who is economical spends money sensibly and does not want to waste it on things that are unnecessary. A way of life that is economical does not need a lot of money.
+- There's increasing demand for cars that are more economical on fuel.
+- You should buy ordinary everyday foodstuffs in bulk - it's more economical.
+- She's very economical with the wrapping paper, isn't she? She cut it without an inch to spare.
+- She was economical by nature.
+\vcompromise
+\m(v) làm tổn hại. to risk harming something
+- His goal was to run a successful business without compromising his principles.
+- I tried to be frugal as possible without having to compromise my health.
+\vdeclutter
+\m(v) remove unnecessary items from (an untidy or overcrowded place)
+- I'm going to declutter before my family comes to visit.
+- Declutter your kitchen worktops to give yourself more space to cook.
+- In 2010, she launched a successful business advising clients how to declutter their homes.
+- There's no better time to declutter your home.
+\vdust bunny
+\ma ball of dust that forms under furniture or on floors that have not been cleaned
+- I swept away the dust bunnies from under the bed.
+- The robot vacuum cleaner sweeps up pizza crumbs and dust bunnies with minimal human effort.
+\vhanger
+\m(n) cái móc
+- There are no hangers in the closet.
+\vdrive someone nuts
+\mlàm ai phát điên. to make someone go crazy
+- All these phone calls are driving me nuts.
+- My neighbor is blaring loud music and it’s really driving me nuts. Maybe I should go tell them to stop.
+- Emily is driving herself nuts over the job interview she has tomorrow, and she’s having trouble sleeping from the anxiety.
+\vwhimper
+\m(v) If someone whimpers, they make quiet unhappy or frightened sounds, as if they are about to start crying.
+- I said she couldn't have an ice cream and she started to whimper.
+- I recorded my dog to see how he would react when I leaved and he was just crying and whimpering.
+- A child in a bed nearby began to whimper.
+- The desperate whimpers coming from inside the locked apartment convinced her she had to get inside.
+\vfluctuate
+\m(v) dao động, lên xuống. Rise and fall irregularly in number or amount.
+- Vegetable prices fluctuate according to the season.
+- Body temperature can fluctuate if you are ill.
+- Her wages fluctuate between £150 and £200 a week.
+- The number of children in the school fluctuates around 100.
+\vcuddle
+\m(v)/(n) ôm ấp và vuốt ve âu yếm. to put your arms around someone and hold them in a loving way, or (of two people) to hold each other close to show love or for comfort.
+- She cuddled the baby and eventually it stopped crying.
+- They sat in the back row of the cinema kissing and cuddling.
+- All children need lots of cuddles.
+\vcuddly
+\m(adj) liking to cuddle, or making you want to cuddle. a person or animal that is cuddly makes you want to cuddle them
+- a very cuddly child
+- She was short and cuddly.
+- He is the most affectionate and cuddly dog I have ever known.
+\vcome by something
+\mto get something. to obtain something
+- How did you come by such a beautiful house?
+- Steady work is hard to come by in this economy.
+- I struggle with math, but my sister comes by it easily, of course.
+\vcome by somewhere
+\mto visit a place for a short time, often when you are going somewhere else (this phrase sounds friendly and casual)
+- I'll come by (the office/your house) one day this week and we can have a chat.
+- Hey, why don't you come by my office on your way over there and I'll give you a tour.
+- We're having a party tonight. Come by if you're not busy.
+- I have to work, but maybe I'll come by after I finish.
+\vdown the road
+\min the future. used for talking about the future and what may happen
+- Many of you guys asked me why don’t I just move in with Ivan. I think down the road we’ll probably consider moving in together but right now I think we both enjoy our private space.
+- Lots of things will have changed a few years down the road.
+- Two years down the road, you might feel very differently.
+- It’s a decision that may well have an impact further down the road.
+- If you don't do your homework now, it'll be a problem down the road when you don't know the material for the exam.
+- I do want to get married, but down the road, not any time soon.
+\vall-nighter
+\m- something that lasts, is available, or is open for business throughout the night.
+\m- an act of staying up all night, as to study or finish a task
+- We stopped at an all-nighter for a cup of coffee.
+- An all-nighter is NOT simply staying up until the sun rises, then sleeping.
+- Jennifer felt like a zombie after having pulled two all nighters in a row during midterms week.
+- I had to pull an all-nighter to get the paper done on time.
+\vwholesome
+\m(adj) beneficial for you, and likely to improve your life either physically, morally or emotionally. Anything wholesome is good for you.
+- Wholesome foods are the ones that help you stay healthy.
+- Marshmallows and corn chips aren't what you'd call wholesome, but organically grown fruits and vegetables are.
+- well-balanced wholesome meals
+- good wholesome family entertainment
+\vtap
+\m(n) ngoài nghĩa là vỗ/gõ nhẹ nó còn có nghĩa là cái vòi nước	 
+\vtap water
+\mthe water that comes out of the taps in a building that are connected to the main supply of the local water system. 
+- He never drinks tap water.
+- A beautiful thing about New York city is you can drink tap water.
+- They have convinced her that tap water really is safe and wholesome to drink.
+\vimmune system
+\mhệ miễn dịch
+- Listeria usually causes mild illness but can be dangerous to pregnant women or people with weak immune systems.
+- I think that I have a very weak immune system because anytime the weather changes I get sick.
+- This hormone helps to control growth of muscle, bone and the cells of the immune system.
+- These cells form part of the immune system and help to prevent the body from getting diseases.
+\vlawn
+\m(n) an area of grass, especially near to a house or in a park, that is cut regularly to keep it short
+\vhay
+\m(n) cỏ khô
+- You must make hay while the sun shines.
+- They spot him on top of the hay bales.
+\vmow
+\m(v) cắt cỏ/lúa/… to cut plants, such as grass or wheat, that have long, thin stems and grow close together
+- You can't mow the grass/lawn if it's wet.
+- I love the smell of new-mown hay.
+- It’s time to mow the lawn again.
+- It took me two hours to mow the lawn.
+\vpet-sit
+\m(v) to take care of someone's pet while that person is away from home
+- There are all kinds of legal ways that teens can make money: part-time jobs, mowing lawns, dog-sitting.
+- To test your daughter's commitment to pet-keeping, why not get her to offer to pet-sit for your neighbours?
+- They call upon trusted friends to pet-sit when they are out of town.
+\vuggs / ugg boots
+\mUgg boots are a unisex style of sheepskin boot originating in Australia and New Zealand.
+\vmerchandise / merch (viết tắt)
+\m(n) hàng hóa
+- Shoppers complained about poor quality merchandise and high prices.
+- Japan exported $117 billion in merchandise to the US in 1999.
+- I’m trying to figure out how to set up a website to sell my merch.
+- Several stores have reported running out of merchandise.
+\vside dish
+\mđồ ăn kèm (như kim chi, rau sống,…). an extra dish of food, for example vegetables or salad, that is served with the main dish, sometimes on a separate plate
+- Kimchi is my favorite side dish.
+- Usually, it is served as a side dish with barbecue.
+- Would you like the salad as an appetizer or as a side dish with your entrée?
+\vprescribe
+\m(v) cho đơn (thuốc), kê đơn (thuốc)
+- Emma is in her last semester in college and getting so stressed. She was telling me about how she was visiting a psychiatrist and being prescribed on sleeping pills.
+- Your doctor can also prescribe medicine if it's needed.
+- The patient presented symptoms and the doctor prescribed treatment.
+- If these don’t work I may have to prescribe you something stronger.
+- These drugs were prescribed for his stomach pains.
+\vaccumulate
+\m(v) tích lũy, gom góp / to gradually increase in number or amount
+- I accumulated some tips over the years that really helped me cope with stress.
+- Over the years, I had accumulated hundreds of books.
+- I am accumulating evidence for the man's unfaithfulness to his wife.
+- Fat tends to accumulate around the hips and thighs.
+- A thick layer of dust had accumulated in the room.
+- Sand had accumulated at the mouth of the river and formed a bank which boats could not pass.
+\vcross off
+\m(v) gạch bỏ. to draw a line through something on a list to show that you have dealt with it
+- They crossed off the names of the people who had already been invited.
+- We can cross him off our list of potential donors.
+- I mowed the lawn today, so I can finally cross that off my to-do list.
+\vblack out
+\m(v) che đi, gạt đi. If you black out something, you prevent it from being seen. To cover something (usually with black lines or blocks) so that it cannot be seen or read.
+- In the TV interview, they blacked out the victim's face.
+- His name evidently appears in the file because he died in 1987; the names of other informants or agents are blacked out.
+- According to Public Works Director Keith Couture, the city does black out and erase obscene graffiti in public areas, but only if a resident complains about it.
+\vdonor
+\m(n) người cho, người tặng, người biếu, người quyên góp
+- a blood donor
+- Thanks to a large gift from an anonymous donor, the charity was able to continue its work.
+- He is also joining the fundraising campaign to find other donors.
+- Some patients die before a suitable donor is found.
+\vlug
+\m(v) carry or drag (a heavy or bulky object) with great effort.
+- She sighed and lugged the bucket up the steps and into the house.
+- I'm exhausted after lugging these suitcases all the way across the city.
+- I don't want to lug these shopping bags around with me all day.
+\vduffel bag
+\mmột loại túi hình ống, dáng khá giống thùng phuy hình trụ.
+\vscorching
+\m(adj) rất nóng, nóng cháy da, nóng như thiêu. very hot
+- a scorching summer day
+- I don’t want to be outside in this scorching heat.
+- It was scorching hot at the beach.
+- Around me, frustrated passengers began to speculate about the city overheating in scorching temperatures.
+- It was one of the better-looking days, sunny, but not scorching.
+\vjuice
+\m(n) (informal) energy (thường đi thành 1 cụm với creative là “creative juice”)
+- When we're excited about a project, our creative juices and mental faculties are in full gear.
+- This early in the morning it's hard to get the creative juices flowing (= to start thinking of good ideas).
+\vdeath toll
+\mthe number of people who die because of an event such as a war or an accident
+- The day after the explosion the death toll had risen to 90.
+- The two separate crashes bring the death toll on the county's roads this year to 85.
+- The U.S. death toll for the novel coronavirus grew to at least 19 Saturday as states and countries around the world escalated their efforts to combat the rapidly spreading viral infection.
+\vtarnish
+\m(v) làm mờ đi / làm giảm danh tiếng của ai hay của cái gì.
+- Gold does not tarnish easily.
+- The brass is nice, but it will tarnish really easily.
+- The silver was tarnished by the long exposure to the air.
+- The affair could tarnish the reputation of the prime minister.
+- By this time a series of scandals had severely tarnished the candidate's image/reputation.
+- Japan's handling of the outbreak on the luxury cruise ship sparked international criticism and has tarnished what was supposed to be a triumphant Olympic year for Prime Minister Shinzo Abe.
+\vsluggish
+\m(adj) chậm chạp, uể oải, lờ đờ. moving or operating more slowly than usual and with less energy or power
+- A heavy lunch makes me sluggish in the afternoon.
+- The housing market has been very sluggish these past few years.
+- Sluggish sales are giving the manufacturers a headache.
+- The government’s sluggish economic performance has added to a growing discontent.
+\vcontract
+\m(v) co lại, thu nhỏ lại, rút lại, teo lại
+- As it cooled, the metal contracted.
+- Agricultural output has contracted by 2.3 percent.
+- New research shows that an excess of meat and salt can contract muscles.
+\vcontraction
+\m(n) sự co lại, sự thu nhỏ lại / sự rút gọn, sự viết tắt
+- Cold causes contraction of the metal.
+- “It's” (with an apostrophe) should be used only as a contraction for “it is”.
+\vsober
+\m(adj) không say, tỉnh táo. not drunk or affected by alcohol / (of an alcoholic) not having had an alcoholic drink for a period of time
+- Are you sober enough to drive, Jim?
+- I'd had no wine all evening so I was stone cold (= completely) sober.
+- When Dad was sober he was a good father.
+- Steve is a recovering alcoholic who has been sober for a decade.
+\vdevastate
+\m/ˈdevəsteɪt/, (v) to destroy a place or thing completely or cause great damage
+- Fukushima was devastated by tsunami and ensuing nuclear disaster in 2011.
+- The town was devastated by a hurricane in 1928.
+- A few days before, a fire had devastated large parts of Windsor Castle.
+- The city centre was devastated by the bomb.
+- Years of war have devastated this island nation.
+\vexile
+\m(n) sự tha hương, sự xa cách quê hương lâu ngày (vì tự nguyện hay lý do chính trị)
+- The area devastated by the 2011 tsunami and ensuing nuclear disaster remains deeply affected by the crisis, with tens of thousands still living in exile from their homes.
+- The king went into exile because of the political situation in his country.
+- They hoped that his exile would be temporary.
+- Many chose to live as exiles rather than face poverty.
+\vrhinestone
+\mkim cương giả. An imitation diamond used in costume jewelry and to decorate clothes
+- He told me I should pile my hair up on top and catch it with a rhinestone pin.
+- That diamond in her ring might only be a rhinestone.
+\vgauge
+\m/ɡeɪdʒ/ (v) tính toán về lượng của 1 cái gì đó. to calculate an amount, especially by using a measuring device. Gauge khác measure ở chỗ, measure là đo một cách trực tiếp như đo độ dài, đo khối lượng,… Còn gauge là từ những kết quả đo đấy để tính toán 1 đại lượng khác phức tạp hơn và không thể đo trực tiếp được.
+- Distance is gauged by journey time rather than miles.
+- The researchers note that their study only measured eye movement, and did not directly gauge a driver's concentration or attention.
+- If you ask your friend, "How do you feel, generally, about loaning your car to people?" your intention might be to gauge his reaction before you flat-out ask if you can borrow his car.
+- I failed to gauge the strength of her dislike.
+- You can only gauge how well any tool works by putting it into action.
+- When taken together, these two measurements can help people who engage in addictive behaviors gauge their progression into addiction.
+\vvigilance
+\m(n) sự cảnh giác. more careful attention, especially in order to notice possible danger
+- The police said that it was thanks to the vigilance of a neighbour that the fire was discovered before it could spread.
+- He said vigilance was the best way to protect small children from danger.
+- It is too early to relax vigilance.
+- In this situation, such vigilance was called for.
+\vcurb
+\m(v) kiềm chế, kìm lại. to control or limit something in order to prevent it from having a harmful effect
+- You really need to curb your spending/bad temper.
+- The government is introducing new measures aimed at curbing inflation.
+- These advertisements aim at curbing the spread of the disease.
+- He called for energy consumption to be curbed.
+\vbarrage
+\m(n) đập nước
+\vauthority
+\m1. (n) If you have the authority to do something, you have the right or power to do it. Giving someone authority grants them the power to make important decisions.
+- Only the president has the authority to declare war.
+- Who has the authority to grant permission?
+- The judge had no authority to order a second trial.
+- I'll give my lawyers authority (= permission) to act on my behalf.
+\m2. (n) An authority is an official organization or government department that has the power to make decisions.
+- the Health Education Authority
+- Any alterations had to meet the approval of the local planning authority.
+- The housing authority provides rental assistance payments to low-income residents.
+- The bridges and piers are built and maintained by the Port Authority.
+\m3. (n) The authorities are the people who have the power to make decisions and to make sure that laws are obeyed.
+- They finally persuaded the authorities that they were not involved in the protest.
+- No attacks were reported to the authorities.
+- They are also calling for powers to allow authorities to intervene to protect young people who are at risk from drugs.
+\vofficial
+\m(n) An official is a person who holds a position of authority in an organization.
+- a government/council official
+- Health officials in Houston said Thursday that California strawberries are almost certainly the source of the illnesses.
+- He is a public official who believes he has a duty to answer people's questions.
+- An official on duty said the situation is changing too quickly.
+- He said that the questioning of another media representative and a public official is expected today.
+\va barrage of sth
+\ma great number of complaints, criticisms, or questions suddenly directed at someone
+- The TV station has received a barrage of complaints about the amount of violence in the series.
+- He faced a barrage of questions over his handling of the problem.
+- City officials faced a barrage of angry questions from local residents.
+\vtide
+\m(n) thủy triều
+- high/low tide
+- The tide is out/in.
+- The tide was at its highest.
+- The tide was going out, and the sand was smooth and glittering.
+- You can only see the beach when the tide is out.
+- It’s low tide right now.
+\vreluctance
+\msự miễn cưỡng, sự bất đắc dĩ, sự không thích, sự không sẵn lòng (làm việc gì)
+- reluctance to speak in public.
+- a reluctance to share information
+- Her reluctance to talk to the press was quite understandable.
+- He tried to explain his reluctance to get involved.
+- He was careful not to show his reluctance to do so.
+- Emma finally agreed, but with reluctance.
+\vepidemic
+\m(n) dịch bệnh. the appearance of a particular disease in a large number of people at the same time
+- A flu epidemic is sweeping through Moscow.
+- Philadelphia was struck with a yellow fever epidemic in 1793.
+- The current cholera epidemic sweeping the nation needs the urgent attention of both authorities and the affected communities.
+- The foot-and-mouth epidemic sweeping Europe and causing the cancellation of numerous race meetings will not affect Spain's bullfighting season.
+\vpandemic
+\m(n) dịch lớn (mức độ ảnh hưởng rộng, có thể là nhiều quốc gia hoặc thậm chí toàn thế giới). "Pandemic" has nothing to do with how serious the illness is. It just means a disease is spreading widely.
+- On Wednesday, the World Health Organization declared that the outbreak of the COVID-19 novel coronavirus has officially reached the level of a pandemic.
+\venactment
+\m(n) (thường dùng cho luật) The enactment of a law is the process in a parliament or other law-making body by which the law is agreed upon and made official.
+- In recent years there has been demand for enactment of legislation enabling the adoption of children.
+- The commission shall expire five years after the date of enactment of this act.
+- The former existed before the enactment of the 1998 Act and they continue to exist.
+\vmild
+\m(adj) nhẹ (về mức độ). Mild is used to describe something such as a feeling, attitude, or illness that is not very strong or severe.
+- She can't accept even mild criticism of her work.
+- He has suffered a mild heart attack - nothing too serious.
+- “Idiot!” is a mild term of abuse .
+- Caffeine, which is found in coffee and tea, is a mild stimulant.
+- Teddy turned to Mona with a look of mild confusion.
+- Most people quickly recover from the virus after experiencing only mild or moderate symptoms.
+\vaudit
+\m(v) to make an official examination of the accounts of a business and produce a report
+- The accountants audited the company's books at the end of the year.
+- Public companies are required by the SEC to have the financial statements, internal controls, and a few other processes audited by an independent auditor from a public accounting firm. The auditor or audit team’s main job is to examine the books, records, and documentation to assure that there are no obvious errors and accounting processes were running appropriately.
+\m(n) an official examination of the accounts of a business	- the annual audit
+- They decided to conduct an internal audit.
+- An audit of the company showed accumulated losses of £1.5 billion.
+\vimpeccable
+\m(adj) hoàn hảo, không có chỗ xấu, không tỳ vết
+- She speaks impeccable French.
+- The food may be good, the service may be impeccable but the noise is intolerable.
+- It does not win matches but shows impeccable manners.
+- We admire their usually impeccable behaviour.
+- The chain of logic is impeccable.
+- On paper, her qualifications seemed to be impeccable.
+- The author, as ever, exhibits impeccable control over her story.
+\vcast a shadow over/on sth
+\mto spoil a good situation with something unpleasant
+- Her father's illness had cast a shadow over the birth of her baby.
+- The boy's broken finger cast a shadow over his birthday party.
+- This scandal will undoubtedly cast a shadow over her otherwise impeccable career.
+- Without the money ... it could cast a shadow over the future of student theatre in Oxford.
+\vsubside
+\m(v) yếu đi, giảm đi, bớt đi. to become weaker, less violent, or less severe
+- The police are hoping that the violence will soon subside.
+- As the pain in my foot subsided, I was able to walk the short distance to the car.
+- After his anger had subsided, he was able to look at things rationally.
+- By morning the storm had subsided.
+- Catherine's sobs finally subsided.
+- Simon waited until the laughter subsided.
+\vcontain
+\m(v) ngoài nghĩa chứa đựng còn có nghĩa là nén lại, kìm lại, kiềm chế. to keep something harmful within limits and not allow it to spread
+- Farms in the area have been closed off in an attempt to contain the disease.
+- More police were sent to help contain the violence.
+- French government ordered all restaurants and cafes closed to better contain the spreading coronavirus.
+- More than a hundred firefighters are still trying to contain the fire.
+\vcloth
+\m(n) vải, vải vóc
+- She began cleaning the wound with a piece of cloth.
+- Wrap in a soft cloth to keep warm.
+- Lay the cloth flat across the table.
+- When you've pinned the pattern onto the cloth, you can start cutting out all the pieces.
+- It's the fineness of the thread that makes the cloth so soft.
+\vfabric
+\m(n) Fabric is cloth or other material produced by weaving together cotton, nylon, wool, silk, or other threads. Fabrics are used for making things such as clothes, curtains, and sheets. (fabric có nghĩa rộng hơn cloth)
+- cotton fabrics
+- The designs are printed onto the fabric by hand.
+- The curtains are made of expensive fabric.
+- Silk fabrics were not, like cotton cloth, the normal wear of the labouring classes.

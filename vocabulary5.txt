@@ -1,0 +1,355 @@
+\vstrain
+\m(n) sự căng, sự căng thẳng; trạng thái căng, trạng thái căng thẳng. a force or influence that stretches, pulls, or puts pressure on something, sometimes causing damage
+- As you get older, excess weight puts a lot of strain on the heart.
+- Their constant arguments were putting a strain on their marriage.
+- The recent decline in the dollar has put a bigger strain on the economic system.
+- Migration into the cities is putting a strain on already stretched resources.
+- She's a lot better than she was but she's still not ready to face the stresses and strains of a job.
+- She was tired and under great strain.
+\vrelentless
+\m(adj) không hề yếu đi, không hề giảm bớt. continuing in a severe or extreme way. Something bad that is relentless never stops or never becomes less intense.
+- He seems to be under relentless pressure at work.
+- the relentless pursuit of wealth and power
+- the relentless crying of a small baby
+- Her family is facing relentless financial problems.
+- Its history has a message for evolution: that the existence of any creature is a constant struggle against relentless forces.
+- Italy, which has Europe's oldest population, is facing growing concerns about the ability of its strained health system to cope with a relentless increase in new cases.
+\vdischarge
+\m(n) sự đuổi ra, sự thải hồi (người làm); sự tha, sự thả (người tù); sự cho ra, sự cho về (người bệnh); sự giải tán, sự giải ngũ (quân đội)
+- To free up more hospital beds, patients with non-urgent surgery will likely be asked to wait, and others may be discharged earlier than is usual in Japan.
+- A peace protester was conditionally discharged for twelve months (= allowed to go free only if they do not commit a crime again for this period of time).
+- We had to discharge several employees last week.
+- Mr Givens was discharged from the committee and replaced by Mr Benton.
+\vbear fruit
+\m- If a tree bears fruit, it produces fruit
+\m- If something that someone does bears fruit, it produces successful results
+- It bears fruit continuously throughout the growing season.
+- Eventually her efforts bore fruit and she got the job she wanted.
+- Some of their research is now bearing fruit.
+- Our policies must be given time to bear fruit.
+- The boys remained optimistic that their musical career might bear fruit.
+- Some investment does not bear fruit.
+\vwelfare
+\m(n) phúc lợi. financial or other assistance to an individual or family from a city, state, or national government
+- This national fund pays for welfare benefits such as unemployment and sickness pay.
+- It is thought that they are now receiving government welfare.
+- The situation puts people out of work and into the welfare system.
+- The amount of money that the government spends on welfare has halved in the past decade.
+- Annabelle stopped getting welfare benefits when her husband landed a minimum-wage job.
+\vtailspin
+\m- a situation in which a plane turns round and round as it falls quickly towards the ground
+\m- a situation in which something starts to fail or lose value and gets more and more out of control
+- The plane went into a tailspin and crashed.
+- Events in Asia sent the stock market into a tailspin.
+- Stock prices are in a tailspin.
+- After the mill closes, the local economy may tailspin.
+- The disruption of European trade during the war had thrown the economy into a tailspin.
+- Policymakers across the globe are trying to deal with the fallout from the epidemic that has sent global stocks into a tailspin.
+\vboycott
+\m(n) / (v) sự tẩy chay / tẩy chay. to refuse to buy a product or take part in an activity as a way of expressing strong disapproval
+- A boycott of/against goods from the EU began in June.
+- Opposition leaders had called for a boycott of the vote.
+- The main opposition parties are boycotting the elections.
+- We boycott all products tested on animals.
+- That led other companies to boycott its product too.
+\vquash
+\m(v) (pháp lý) hủy bỏ, bác đi. to say officially that something, especially an earlier official decision, is no longer to be accepted. If a court or someone in authority quashes a decision or judgment, they officially reject it.
+- The High Court later quashed his conviction for murder.
+- The decision was quashed by the House of Lords.
+\m(v) dập tắt, dẹp yên, đàn áp (ví dụ 1 cuộc nổi loạn)
+- They acted quickly to the quash rumours.
+- The government quashes any attempt of an uprising.
+- The police were brought in to quash the strike.
+\vresign
+\m(v) từ chức
+- He resigned from the company in order to take a more challenging job.
+- She resigned as director.
+- As the company's financial problems worsened, several directors resigned.
+- In a television interview last night she denied she had any intention of resigning.
+- A hospital administrator has resigned over claims he lied to get the job.
+- Mr Robb resigned his position last month.
+\vpress conference
+\m(n) cuộc họp báo. an interview given to journalists by a prominent person in order to make an announcement or answer questions.	
+\vbe out of the woods
+\mto no longer be in danger or difficulty
+- The project has been given funding for another year, but it's not out of the woods yet.
+- It's too soon to say if either airline is out of the woods yet.
+- Her surgery went as well as we could have hoped, but she's not out of the woods yet.
+- If our sales stay strong, we should be out of the woods by the next quarter.
+- There are 10 trillion possible combinations of credit card numbers out in the universe, and card issuers are only using about 65 million of them.
+- With odds like that, the statistical likelihood that a criminal will chance upon a valid account number - and then upon your account number - is very low. But that doesn’t mean you’re out of the woods.
+\vmooring
+\m(n) nơi buộc thuyền thả neo
+- The Diamond Princess, a coronavirus-hit cruise ship that saw 712 passengers and crew contracting the disease with 10 deaths, left its moorings in Yokohama Wednesday.
+\vpeek
+\m(v) hé nhìn. to look, especially for a short time or while trying to avoid being seen
+- Close your eyes. Don't peek. I've got a surprise for you.
+- Close your eyes, and no peeking!
+- I peeked out the window to see who was there.
+- A little girl peeked around the corner of the chair at him.
+- Paula opened the box and peeked inside.
+\vcushion the blow
+\mto make a bad situation less serious
+- He's lost his job, but the redundancy money will cushion the blow.
+- A reduction in interest rates would cushion the blow of tax increases.
+- Letting some one resign is a way to cushion the blow.
+- When my daughter had to get a shot at the doctor's office, I tried to cushion the blow by telling her we would go out for ice cream afterward.
+\vcombat
+\m(v) to try to stop something unpleasant or harmful from happening or increasing
+- to combat crime/terrorism/inflation/disease
+- The government is spending millions of dollars in its attempt to combat drug abuse.
+- I have to combat this constant desire to eat chocolate.
+- The charity is working to combat poverty, reduce isolation, defeat ageism and to promote quality in care.
+\vin a bid to do sth
+\m= in an attempt to do sth
+- Japan enacts legislation to spur businesses to let employees work until age 70, in a bid to increase its working population.
+- Shopkeepers are to be taught the moral and legal responsibilities of selling alcohol in a bid to crack down on under-age drinking.
+- He returns to the course tomorrow in a bid to prove that his latest effort was no fluke.
+\vspeculation
+\m(n) sự suy đoán. the activity of guessing possible answers to a question without having enough information to be certain
+- The statement excited new speculation that a senior minister may be about to resign.
+- He knows there's a lot of talk and speculation about him but he must keep his feet on the ground.
+- There is rising speculation that investment banks may lay off about 1,000 staff in London this autumn.
+- There has been a great deal of speculation about what will happen after the elections.
+\vfollow suit
+\mto do the same thing that someone else has just done
+- When one airline reduces its ticket prices, the rest usually follow suit.
+- In 2008, United started charging for bags and other airlines quickly followed suit.
+- If Tim decided to have pancakes for breakfast, Pam would follow suit.
+- He had sold all his sheep and bought a truck, and was trying to convince others that they should follow suit.
+\vderail
+\m(v) if a train derails or is derailed, it comes off the railway tracks.
+- Several people were injured today when a train was derailed.
+- No-one knows why the train derailed.
+\vunderscore
+\m(v) ngoài nghĩa là gạch chân còn có nghĩa là nhấn mạnh 1 cái gì đó. to emphasize the fact that something is important or true
+- The crisis has also underscored the importance of international action to stabilise the economy.
+- (Japan recorded 503 new coronavirus infections on Wednesday, its biggest daily increase since the start of the pandemic) The jump in new COVID-19 cases underscored the struggle of Japanese authorities to contain the outbreak.
+- Experts said that the findings underscored the need for a better test to spot the most deadly cancers.
+\vimpose
+\m(v) to officially force a rule, tax, punishment, etc. to be obeyed or received. to introduce something such as a new law or new system, and force people to accept it
+- Very high taxes have recently been imposed on cigarettes.
+- The council has imposed a ban on alcohol in the city parks.
+- They have imposed restrictions on trade with foreign companies.
+- Britain imposed fines on airlines which bring in passengers without proper papers.
+\m(v) áp đặt. to force someone to accept something, especially a belief or way of living
+- parents who impose their own moral values on their children
+- I don't want them to impose their religious beliefs on my children.
+- The decision was theirs and was not imposed on them by others.
+- Numerous forces have been imposed on physicians (thầy thuốc) to make them change their practice behaviours (hành vi hành nghề).
+\vdeal a blow to sth
+\mgiáng/nện 1 đòn vào cái gì đó
+- This scandal has dealt a blow to his plans to stand as chairman.
+- The factory closing will deal a serious/severe/devastating/crushing blow to the town's economy.
+- Japanese authorities are hoping to contain the outbreak without imposing a mandatory lockdown that could deal a major blow to an economy already struggling to cope with the virus outbreak.
+\vbrink
+\m(n) the edge of a cliff or other high area / the point where a new or different situation is about to begin
+- She believed she was on the brink of discovering a cure for cancer.
+- Failure to communicate had brought the two nations to the brink of war.
+- Many companies are on the brink of ruin.
+- Negotiations between the two countries are on the brink of collapse.
+- With the country on the brink of economic collapse, the protests have become bigger and more frequent.
+\vbe stretched thin
+\mnot have sufficient resources to carry out tasks, have too much work
+- Our staff is really stretched thin at this time of year—lots of people are on vacation, but the workload doesn’t diminish.
+- Japanese health care facilities are getting stretched thin amid a surge in coronavirus patients.
+\vdispense
+\m(v) phân phát. to give out things, especially products, services, or amounts of money
+- The Union had already dispensed £40,000 in grants.
+- The local welfare office is where government dispenses many of its services.
+- The company makes vending machines that dispense drinks and snacks.
+- It's their job to dispense information effectively and accurately.
+\vresourceful
+\m(adj) có tài xoay sở, giỏi xoay sở, tháo vát. Having the ability to find quick and clever ways to overcome difficulties.
+- She's a very resourceful manager.
+- These are situations that will test your resourcefulness to the utmost.
+- You will become stronger and more resourceful in the face of adversity.
+- If we believe in our ability to be inventive and resourceful then we have every reason to believe we can make changes.
+- After all they have to be pretty resourceful to be able to make it this far.
+\v(get/have/spend/…) time apart
+\mchỉ thời gian sống xa nhau của 1 cặp đôi (có thể là 1 đôi vợ chồng tạm thời ly thân, hoặc 1 cặp đôi quyết định xa nhau 1 thời gian vì muốn có thời gian ở riêng để suy nghĩ,…)
+- When you’re in a relationship, it is natural to want to spend loads of time together, but you also need time apart in a relationship.
+- By time apart, I don’t mean you should try to have a long distance relationship or not talk for days at a time. Time apart in a relationship will be different for everyone.
+- I think we need to spend some time apart from each other.
+- Time apart is necessary if one or both of you feel like you need to get back in touch with your individuality.
+- A Japanese short-term rental firm is marketing its empty apartments as a way for stressed couples to get some time apart during the virus lockdown.
+\vdilemma
+\m(n) thế tiến thoái lưỡng nan, tình trạng khó xử. A situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones.
+- The president is clearly in a dilemma about/over how to tackle the crisis.
+- She faces the dilemma of disobeying her father or losing the man she loves.
+- Pay the rent or eat? Suddenly jobless Americans face dilemma.
+- He was faced with the dilemma of whether or not to return to his country.
+\vbe caught/stuck between a rock and a hard place
+\mto be in a very difficult situation and to have to make a hard decision. to be in a position in which you have to choose between two things that are not good
+- Terra Thomas, one of the millions of Americans who have lost their income due to the coronavirus pandemic, was stuck between a rock and a hard place -- pay her rent or put food on the table?
+- You were really between a rock and a hard place when you had to choose between your career and your relationship.
+\vcustom
+\m(n) phong tục, tục lệ
+- In my country, it's the custom (for women) to get married in white.
+- a local/ancient custom
+- The guide offers information on local customs.
+- Knowledge of local customs and culture is essential.
+- Some experts say customs and social habits in Japan such as wearing face masks during seasonal flu outbreaks, bowing rather than handshaking, and removing shoes at home might play some role in hindering transmission of the virus.
+\vprompt
+\m(v) khiến/thúc đẩy ai làm gì. To prompt someone to do something means to make them decide to do it.
+- What prompted you to say that?
+- I don't know what prompted him to leave.
+- Japan's recession has prompted consumers to cut back on buying cars.
+- Concerns over the spread of the coronavirus prompted officials to cancel Chiba Prefecture's annual Sakura Tulip Festa -- which usually draws hundreds of thousands.
+\vanticipate
+\m(v) thấy trước, biết trước, đoán trước, dè trước, liệu trước, lường trước. to imagine or expect that something will happen
+- We don't anticipate any trouble.
+- We had one or two difficulties along the way that we didn't anticipate.
+- Are you anticipating a lot of people at the party tonight?
+- At this stage we can't really anticipate what will happen.
+- It is anticipated that the equivalent of 192 full-time jobs will be lost.
+\vmake ends meet
+\mto have just enough money to pay for the things that you need
+- It’s not easy to make ends meet with a big family, but somehow we manage.
+- She is unemployed and depends upon benefits to make ends meet.
+- My mother had to work 12 hours a day in a factory just to make ends meet.
+\vpledge
+\m(n) lời hứa, lời cam kết
+\m(v) hứa, cam kết
+- All the candidates have given/made pledges not to raise taxes if they are elected.
+- Thousands of people made pledges (= promised to give money) to the charity campaign.
+- I give you this ring as a pledge of my everlasting love for you.
+- Eisenhower fulfilled his election pledge to end the war in Korea.
+- The meeting ended with a pledge to step up cooperation between the six states of the region.
+\vsweatshirt
+\m(n) a piece of informal clothing with long sleeves, usually made of thick cotton, worn on the upper part of the body (hoodie là 1 dạng của sweatshirt)	 
+\vultramodern
+\m(adj) tối tân. extremely modern. 
+- Then there's also the new, ultramodern Sony store - the biggest in Italy!
+- Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.
+\vlandmark
+\ma building or place that is easily recognized, especially one that you can use to judge where you are
+- I couldn’t pick out any familiar landmarks in the dark and got completely lost.
+- Built in 1958 after World War II, Tokyo Tower has been a famous landmark of the Tokyo skyline for decades.
+- Tokyo Skytree is a new and developing landmark in Tokyo and people love the comparison with Tokyo Tower.
+\vturn away
+\mto refuse admittance or assistance to
+- They turned away hundreds of fans.
+- Thousands of applicants are turned away each year.
+- Cases of hospitals in Japan turning away patients on ambulance transports, mostly because they are suspected of being infected with the new coronavirus, increased more than fivefold in April from a year earlier. (Các trường hợp bệnh viện ở Nhật Bản từ chối bệnh nhân vận chuyển bằng xe cứu thương, chủ yếu là do họ bị nghi nhiễm virus corona mới, đã tăng hơn năm lần trong tháng Tư so với một năm trước.)
+- Turning refugees away would be an inhumane action.
+- Anyone who comes to us will not be turned away.
+- People can use the service up to three times a year, although in practice no one would be turned away in an emergency.
+\vcrave
+\m(v) ao ước, thèm muốn, khao khát. to have a very strong feeling of wanting something
+- The neglected kids just crave attention.
+- There may be certain times of day when smokers crave their cigarette.
+- I’ve been craving some of my favorite dishes so I’m gonna make them today.
+\voutlook
+\m(n) cách nhìn, quan điểm. a person's way of understanding and thinking about something
+- He has a fairly positive outlook on life.
+- Exercise will improve your looks and your outlook.
+- She still has an optimistic outlook for the future.
+\m(n) viễn cảnh. the likely future situation. what is expected to happen in the future
+- The economic outlook for 2017 is likely to be tough because of weak investment, insufficient skilled labour and depressed growth in real incomes.
+- Major retailers and manufacturers in Japan remain cautious about the outlook for their business, as Japan on Monday extended its nationwide state of emergency until the end of the month in a bid to curb infections of the new coronavirus.
+- Despite the disappointment, economists said the outlook was positive.
+- The outlook for the weekend is unsettled, with periods of heavy rain.
+\m(n) quang cảnh. what you can see from a particular place
+- From the top of the tower, the outlook over the city was breathtaking.
+- a very pleasing outlook from the bedroom window.
+\vprod
+\m(v) thúc giục ai làm gì. to encourage someone to take action, especially when they are being slow or unwilling. If you prod someone into doing something, you remind or persuade them to do it.
+- He gets things done, but only after I've prodded him into doing them.
+- The report should prod the Government into spending more on the Health Service.
+- I had to prod Tony into taking care of the problem.
+\vcome across
+\m(v) to meet, find, or discover someone or something by chance
+- I came across an interesting news item in yesterday's 'Times'.
+- I came across an old diary in her desk.
+- I came across children sleeping under bridges.
+- She came across some old photographs in a drawer.
+\vincident
+\m(n) sự cố, vụ việc xảy ra. An incident is something that happens, often something that is unpleasant.
+- A youth was seriously injured in a shooting incident on Saturday night.
+- These incidents were the latest in a series of disputes between the two nations.
+- The voting went ahead without incident.
+- Roads were sealed off because of a major incident.
+- The whole incident was caught on CCTV.
+\vdispute
+\m(n) / (v) bàn cãi, tranh chấp. A dispute is an argument or disagreement between people or groups.
+- They have been unable to settle/resolve the dispute over working conditions.
+- The firm is involved in a legal dispute with a rival company.
+- The sheep farmers had been in dispute with factories over what they claimed was a serious cut in the price being paid for lamb.
+- There have been disputes between Japan and South Korea on numerous issues over the years.
+\vclinical
+\m(adj) relating to the observation and treatment of actual patients rather than theoretical or laboratory studies. Something that's clinical is based on or connected to the study of patients. Clinical medications have actually been used by real people, not just studied theoretically. When you hear about clinical drug trials, you'll know there are patients taking them and being observed — this type of test can be called clinical research.
+- Clinical trials of the new drug may take five years.
+- Treatment patients showed better clinical outcome at delivery, with higher average infant birth weight measures and Apgar scores.
+- The secondary objective was to study the clinical response to treatment.
+- However, such approaches are obviously of little help for clinical studies in patients.
+\vdread
+\m(n) / (v) sự sợ hãi, sự khiếp sợ 1 điều gì đó có thể xảy ra. to feel extremely worried or frightened about something that is going to happen or that might happen
+- The noun dread describes the fear of something bad happening, like the dread you feel when walking alone on a deserted street in the dark.
+- He's dreading the exam - he's sure he's going to fail.
+- I'm dreading having to meet his parents.
+- I dreaded coming back, to be honest.
+- She thought with dread of the cold winters to come.
+- Although I was absolutely dreading telling Dad, he was actually very understanding when I told him.
+\vbackslide
+\m(v) tái phạm, lại sa ngã. to start doing the bad things that you used to do, after having improved your behaviour
+- My diet was going well, but I've been backsliding a little recently.
+- I knew I was going to backslide with Ben last night as soon as he walked into the bar. My friends are going to kill me.
+- Smokers who quit often backslide within a year.
+\von course
+\mvery likely to achieve something or to have a particular result
+- Pandemic sets Japan on course for deep recession as spending, services plunge.
+- The company is on course to make its worst-ever losses this year.
+- He was on course for victory.
+- So far this year, 27 members have passed, putting the group on course to achieve its target.
+- It appears that they are on course to achieve their goal, but one year later than planned.
+\vdrive-through
+\mA drive-through shop or restaurant is one where you can buy things without leaving your car
+- a drive-through restaurant
+- a drive-through car wash
+- drive-through coffee shops
+\vwholesale
+\m(n)/(adj)/(adv) the activity of selling goods in large amounts at low prices to shops and businesses, rather than selling goods in shops to customers
+- wholesale prices.
+- a wholesale supplier/business
+- wholesale market
+- We have already got some wholesale orders and are hoping to get more soon.
+- In Sri Lanka it has one factory, 116 retail outlets, five wholesale markets and several storage facilities.
+\vdresser
+\mLà kiểu tủ như các hình bên
+\vkibble
+\m(n) food for animals in the form of hard round balls
+- a bag of dog kibble
+- Stuff you wouldn't want to eat but the dog might like: dried liver, plain old (good quality) dog kibble, dry cat food.
+- If I'd known that switching kibble would fix all that, I'd have done it ages ago.
+- Both dog and cat kibble cost $5.95 for five pounds and $32.50 for 40 pounds.
+\vthen
+\mused to finish off a conversation
+- “See you in an hour then.”
+- “See you there then!”
+- He hugged me tightly and whispered, “So I’ll see you in a week then?’’
+- “See you next week, then!”
+\vmeetup
+\m(n) an informal meeting or gathering
+- For people that live locally or on campus, I'll text them to arrange a meetup if I want to talk to them and hang out.
+\vmeet up
+\mto see and talk to someone after making an arrangement to do so
+- I'm meeting up with some friends after work.
+- We often meet up after work and go for a drink.
+- We decided to keep in touch and meet up regularly.
+\vstock up (on something)
+\mto buy a large amount of something so that you will have enough for the future.
+- Tips for stocking up amid coronavirus pandemic.
+- People are stocking up on food and essentials during coronavirus pandemic.
+\varmour / armor
+\m(n) áo giáp
+- Police put on body armour before confronting the rioters.
+- In the past, knights used to wear suits of armour (= protective covering made of metal) in battle.
+- samurai armor
+\vcoop
+\m(n) lồng
+\m(v) giam, nhốt
+- They keep chickens in a coop on the roof and a sheep in the yard.
+- There were a lot of eggs to be collected from the chicken coop.
+- Most of that week was spent cooped up together in the hotel bedroom.
+- After months cooped up indoors, it is time to let the little ones run free.

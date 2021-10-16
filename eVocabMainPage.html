@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<title>English Vocab</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+		<style>
+			body { 
+				margin: 20px 20px 20px 20px;
+			}
+
+			#btnNext {
+				font-size: 30px;
+				margin-top: 20px;
+			}
+
+			#btnNext:hover {
+				background-color: white;
+				color: black;
+				border: 1px solid black;
+			}
+
+			.btn {
+				margin: 5px 5px 0 5px;
+				border-radius: 7px;
+				min-width: 150px;
+				font-size: 20px;
+			}
+		</style>
+
+	</head>
+	<body>
+
+		<div class="row">
+			<div class="col-sm-3">
+				<div>
+					<button id="btnStartAgain" type="button" class="btn btn-primary">Start again</button>
+				</div>
+
+				<div>
+					<button id="btnNormal" type="button" class="btn btn-primary">Normal</button>
+				</div>
+
+				<div>
+					<button id="btnHideMeaning" type="button" class="btn btn-primary">Hide meaning</button>
+				</div>
+
+				<div>
+					<button id="btnHideVocab" type="button" class="btn btn-primary">Hide vocab</button>
+				</div>
+
+				<!-- <div id="dropDownVocabSet" class="dropdown">
+					<button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Vocabulary1
+						<span class="caret"></span></button>
+					<ul class="dropdown-menu">
+						<li><a href="#" id="optionVocabSet1">vocabulary1</a></li>
+						<li><a href="#" id="optionVocabSet2">vocabulary2</a></li>
+						<li><a href="#" id="optionVocabSet3">vocabulary3</a></li>
+						<li><a href="#" id="optionVocabSet4">vocabulary4</a></li>
+						<li><a href="#" id="optionVocabSet5">vocabulary5</a></li>
+						<li><a href="#" id="optionVocabSet6">vocabulary6</a></li>
+						<li><a href="#" id="optionVocabSet7">vocabulary7</a></li>
+						<li><a href="#" id="optionVocabSet8">vocabulary8</a></li>
+						<li><a href="#" id="optionVocabSet9">vocabulary9</a></li>
+						<li><a href="#" id="optionVocabSet10">vocabulary10</a></li>
+						<li><a href="#" id="optionVocabSet11">vocabulary11</a></li>
+						<li><a href="#" id="optionVocabSet12">vocabulary12</a></li>
+					</ul>
+				</div> -->
+
+				<div style="margin-top: 15px; margin-left: 10px">
+					<select id="dropDownVocabSet">
+						<option value="vocabulary1">vocabulary1</option>
+						<option value="vocabulary2">vocabulary2</option>
+						<option value="vocabulary3">vocabulary3</option>
+						<option value="vocabulary4">vocabulary4</option>
+						<option value="vocabulary5">vocabulary5</option>
+						<option value="vocabulary6">vocabulary6</option>
+						<option value="vocabulary7">vocabulary7</option>
+						<option value="vocabulary8">vocabulary8</option>
+						<option value="vocabulary9">vocabulary9</option>
+						<option value="vocabulary10">vocabular10</option>
+						<option value="vocabulary11">vocabulary11</option>
+						<option value="vocabulary12">vocabulary12</option>
+					</select>
+				</div>
+			</div>
+			
+			<div class="col-sm-9">
+				<div id="divMessage" style="display: none;">
+					<p style="font-size: 20px; color: red;">End of vocab list!</p>
+				</div>
+				
+				<div>
+					<p id="pVocab" style="font-size: 40px; color: maroon;">vocab</p>
+				</div>
+
+				<div>
+					<p id="pMeaning" style="font-size: 20px; color: #009900;">meaning</p>
+				</div>
+
+				<div>
+					<p id="pExample" style="font-size: 20px; color: #ff3300;">example</p>
+				</div>
+
+				<div>
+					<button id="btnNext" type="button" class="btn btn-success">Next</button>
+				</div>
+			</div>
+		</div>
+
+		
+
+		
+
+		<script>
+			var lines = [];
+			var vocabList = [];
+			var tempVocabList = [];
+			var mode = 0; //0: normal - vocab and meaning shown, 1: meaning hidden, 2: vocab hidden
+			var currentVocab = "vocab";
+			var currentMeaning = ["meaning"];
+			var currentExample = ["example"];
+			var vocabSet = "vocabulary1";
+
+			$.get('./vocab/vocabulary1.txt', function(data) {
+				lines = data.split("\n");
+				// console.log(lines);
+				for (var i = 0; i < lines.length; i++) {
+					if (lines[i].substring(0, 2) == "\\v") {
+						vocabList.push(lines[i].substring(2));
+					}
+				}
+				for (var element of vocabList) {
+					tempVocabList.push(element);
+				}
+				console.log(vocabList);
+			});
+
+			$('#dropDownVocabSet').change(function() {
+				vocabSet = $(this).val();
+				console.log(vocabSet);
+				var vocabFilePath = "./vocab/" + vocabSet + ".txt";
+				vocabList = [];
+				tempVocabList = [];
+				$.get(vocabFilePath, function(data) {
+					lines = data.split("\n");
+					// console.log(lines);
+					for (var i = 0; i < lines.length; i++) {
+						if (lines[i].substring(0, 2) == "\\v") {
+							vocabList.push(lines[i].substring(2));
+						}
+					}
+					for (var element of vocabList) {
+						tempVocabList.push(element);
+					}
+					console.log(vocabList);
+				});
+			});
+
+			if (mode == 0) {
+				$('#btnNormal').css('background-color', '#00cccc');
+				$('#btnHideMeaning').css('background-color', '');
+				$('#btnHideVocab').css('background-color', '');
+			} else if (mode == 1) {
+				$('#btnHideMeaning').css('background-color', '#00cccc');
+				$('#btnNormal').css('background-color', '');
+				$('#btnHideVocab').css('background-color', '');
+			} else {
+				$('#btnHideVocab').css('background-color', '#00cccc');
+				$('#btnNormal').css('background-color', '');
+				$('#btnHideMeaning').css('background-color', '');
+			}
+
+			$("#pVocab").click(function(){
+				$('#pVocab').html(currentVocab);
+			});
+
+			$("#pMeaning").click(function(){
+				$('#pMeaning').html(currentMeaning);
+			});
+
+			$("#pExample").click(function(){
+				if (currentExample.length > 0) {
+					$('#pExample').html(currentExample);
+				} else {
+					$('#pExample').html("No example available");
+				}
+			});
+
+			$("#btnNext").click(function(){
+				if (tempVocabList.length == 0) {
+					$("#divMessage").show();
+				} else {
+					$("#divMessage").hide();
+					var numOfVocab = tempVocabList.length;
+					var randNum = Math.floor(Math.random() * numOfVocab);
+					// console.log("rand number = " + randNum);
+					currentVocab = tempVocabList[randNum];
+					// console.log(currentVocab);
+					currentMeaning = [];
+					currentExample = [];
+
+
+					for (var i = 0; i < lines.length; i++) {
+						if (lines[i].substring(2) == currentVocab) {
+							for (var j = i + 1; j < lines.length; j++) {
+								if (lines[j].substring(0, 2) == "\\v") {
+									break;
+								} else {
+									if (lines[j].substring(0, 2) == "\\m") {
+										currentMeaning.push(lines[j].substring(2) + "<br>");
+									}
+									if (lines[j].substring(0, 2) == "- ") {
+										currentExample.push(lines[j] + "<br>");
+									}
+								}
+							}
+						}
+					}
+				}
+
+				// console.log(currentVocab);
+				// console.log(currentMeaning);
+				// console.log(currentExample);
+
+				if (mode == 0) {
+					$('#pVocab').html(currentVocab);
+					$('#pMeaning').html(currentMeaning);
+					$('#pExample').html("example");
+				} else if (mode == 1) {
+					$('#pVocab').html(currentVocab);
+					$('#pMeaning').html("meaning");
+					$('#pExample').html("example");
+				} else {
+					$('#pVocab').html("vocab");
+					$('#pMeaning').html(currentMeaning);
+					$('#pExample').html("example");
+				}
+				tempVocabList.splice(randNum, 1);
+				// console.log(mode);
+			});
+
+			$("#btnStartAgain").click(function(){
+				tempVocabList = [];
+				for (var element of vocabList) {
+					tempVocabList.push(element);
+				}
+				console.log("vocabList:");
+				console.log(vocabList);
+				console.log("tempVocabList:");
+				console.log(tempVocabList);
+				currentVocab = "vocab";
+				currentMeaning = "meaning";
+				currentExample = "example";
+				$("#divMessage").hide();
+				if (mode == 0) {
+					$('#pVocab').html(currentVocab);
+					$('#pMeaning').html(currentMeaning);
+					$('#pExample').html("example");
+				} else if (mode == 1) {
+					$('#pVocab').html(currentVocab);
+					$('#pMeaning').html("meaning");
+					$('#pExample').html("example");
+				} else {
+					$('#pVocab').html("vocab");
+					$('#pMeaning').html(currentMeaning);
+					$('#pExample').html("example");
+				}
+			});
+
+			$("#btnNormal").click(function(){
+				mode = 0;
+				$('#btnNormal').css('background-color', '#00cccc');
+				$('#btnHideMeaning').css('background-color', '');
+				$('#btnHideVocab').css('background-color', '');
+				$('#pVocab').html(currentVocab);
+				$('#pMeaning').html(currentMeaning);
+				$('#pExample').html("example");
+			});
+			
+			$("#btnHideMeaning").click(function(){
+				mode = 1;
+				$('#btnHideMeaning').css('background-color', '#00cccc');
+				$('#btnNormal').css('background-color', '');
+				$('#btnHideVocab').css('background-color', '');
+				$('#pVocab').html(currentVocab);
+				$('#pMeaning').html("meaning");
+				$('#pExample').html("example");
+				// console.log(mode);
+			});
+
+			$("#btnHideVocab").click(function(){
+				mode = 2;
+				$('#btnHideVocab').css('background-color', '#00cccc');
+				$('#btnNormal').css('background-color', '');
+				$('#btnHideMeaning').css('background-color', '');
+				$('#pVocab').html("vocab");
+				$('#pMeaning').html(currentMeaning);
+				$('#pExample').html("example");
+				// console.log(mode);
+			});
+		</script>
+
+	</body>
+</html>
